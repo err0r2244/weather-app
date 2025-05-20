@@ -1,4 +1,4 @@
-/* General reset */
+
 body, html {
   margin: 0;
   padding: 0;
@@ -48,7 +48,7 @@ body {
   gap: 15px;
 }
 
-#city-input {
+#city {
   padding: 10px;
   font-size: 1rem;
   border: 1px solid #ccc;
@@ -57,7 +57,7 @@ body {
   transition: border-color 0.3s ease;
 }
 
-#city-input:focus {
+#city:focus {
   border-color: #4facfe;
 }
 
